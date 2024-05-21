@@ -6,12 +6,12 @@
             metric: "10x",
             name: "a self taught developer",
             description:
-                " While I studied petroleum engineering, my real passion was always software engineering. So, I started leveraging online resources and embarked on a self-taught journey. I loved the creativity and problem-solving that come with building innovative online experiences. I began with JavaScript, HTML, and CSS, and then dove into JavaScript frameworks and eventually into backend programming and design principles. This ongoing learning keeps me excited about the ever-evolving world of web development",
+                " While I studied Petroleum Engineering, my real passion was always software engineering. So, I started leveraging online resources and embarked on a self-taught journey. I loved the creativity and problem-solving that come with building innovative online experiences. I began with JavaScript, HTML, and CSS, and then dove into JavaScript frameworks and eventually into backend programming and design principles. This ongoing learning keeps me excited about the ever-evolving world of web development.",
         },
         {
             name: "a Pixel Perfect Fanatic",
             description:
-                "Crafting pixel-perfect designs with great user experiences lets me express and experiment with my creativity. I love the challenge of learning new design concepts and creating amazing online experiences for users. I strive to bring the product designers vision to live by ensuring a pixel perfect replication of the design and a seamless user experience.",
+                "Crafting pixel-perfect designs with great user experiences lets me express and experiment with my creativity. I love the challenge of learning new design concepts and creating amazing online experiences for users. I strive to bring the product designer's vision to life by ensuring a pixel perfect replication of the design and a seamless user experience.",
         },
         {
             name: "an excellent communicator",
@@ -87,9 +87,6 @@
                     </div>
                 </div>
             {/each}
-        </div>
-        <div class="mx-auto -mt-12 italic sm:hidden opacity-50">
-            <p>Scroll to see more &rarr;</p>
         </div>
     </section>
 </main>
